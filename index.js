@@ -1,5 +1,5 @@
-// index-v1.1 - branch(test-v1)
+// index-v2 - branch(test-v2)
 
-let one = 1.1;
+let two = 2;
 
-console.log(`Number: ${one}`);
+console.log(`Number: ${two}`);
